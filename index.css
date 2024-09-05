@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+  background-image: 'C:\\Users\\HP\\OneDrive\\Desktop\\new alpha\\my-network\\src\\background.jpg';
+  background-color: rgb(221, 202, 178);
+}
+
+h1, h2, h4 {
+  color: #1d132c;
+}
+
+input, button {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+button {
+  background-color: #1d132c;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #435397;
+}
+
+
+
+
+
+
+

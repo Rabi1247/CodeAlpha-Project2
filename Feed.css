@@ -1,0 +1,16 @@
+.feed {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 600px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    align-items: center;
+  }
+  
+  .feed h2 {
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  

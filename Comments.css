@@ -1,0 +1,15 @@
+.comments {
+    margin-top: 20px;
+  }
+  
+  .comments input {
+    width: calc(100% - 22px);
+  }
+  
+  .comments p {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+  }
+  
